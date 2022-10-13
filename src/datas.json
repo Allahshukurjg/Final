@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Arko Nemlendirici",
+      "category": "Eye",
+
+      "price": 40,
+      "image": "https://th.bing.com/th/id/OIP.NwA1Rk22NXE3VuK4uW-MTgHaHa?pid=ImgDet&rs=1",
+      "count": 0,
+      "isTrending": false
+    },
+
+    {
+      "id": 2,
+      "name": "H&S SHAMPOO HUMECTANTE",
+      "category": "Hair",
+
+      "price": 50,
+      "image": "https://www.lagosdistribuidores.cl/sitio2019/wp-content/uploads/2020/06/CPSHHYS370_HS_SHAMPOO_HUMECTANTE_375_ML.jpg",
+      "count": 0,
+      "isTrending": true
+    },
+    {
+      "id": 3,
+      "name": "DR.SANTE Aloe Vera Hair Mask",
+      "category": "Hair",
+
+      "price": 99,
+      "image": "https://th.bing.com/th/id/R.4245afe2baec6d80e063231282225561?rik=CVwSbghyNhf8mw&pid=ImgRaw&r=0",
+      "count": 0,
+      "isTrending": true
+    },
+    {
+      "id": 4,
+      "name": "Styling Hair Cream Extra Hold",
+      "category": "Hair",
+
+      "price": 35,
+      "image": "https://coldstorage-s3.dexecure.net/product/5040501.jpg",
+      "count": 0,
+      "isTrending": true
+    },
+    {
+      "id": 5,
+      "name": "Philips Sonicare FlexCare",
+      "category": "Tooth",
+
+      "price": 40,
+      "image": "https://th.bing.com/th/id/R.7436f7488b4377f65dd37214ca2e3a2a?rik=kJSiswOYNJ4ybQ&riu=http%3a%2f%2foralcare.pickmenow.top%2fwp-content%2fuploads%2f2018%2f05%2f61qJGXcvk7L._SX679_.jpg&ehk=S5ZTx6dGshZMzIpNqLbp6uB7HSTvrHi2U9oo052CEIU%3d&risl=&pid=ImgRaw&r=0",
+      "count": 0,
+      "isTrending": true
+    },
+    {
+      "id": 6,
+      "name": "MediDerm Extrait de Caviar luxury intensive mask",
+      "category": "Face mask",
+
+      "price": 30,
+      "image": "https://i.ebayimg.com/images/g/LfAAAOSwvWZep5gD/s-l640.jpg",
+      "count": 0,
+      "isTrending": true
+    }
+  ]
+}
